@@ -6,8 +6,10 @@ Ontwerp en ontwikkel een website voor INK waarin het verhala van INK goed wordt 
 
 ## Resources
 
-[Backlog](...)
+[Backlog](https://github.com/orgs/fdnd-agency/projects/22)
 
 [Figma Design](https://www.figma.com/file/tb8gXmzX9G17gIXXVSXifw/INK-DIEGO%2FNANDITA%2FMILAN%2FRALPH?type=design&node-id=0%3A1&t=QpH4rPLnaaEkDbZE-1)  
 
 [Content]()  
+
+[Static prototype](https://milanrolie.github.io/proof-of-concept/)
