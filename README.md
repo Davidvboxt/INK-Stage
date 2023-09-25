@@ -2,7 +2,7 @@
 
 ## Design Challenge
 
-Ontwerp en ontwikkel een website voor INK waarin het verhaal van INK goed wordt overgebracht. Op de webiste moeten sponsors zich kunnen aanmelden.
+Ontwerp en ontwikkel een website voor INK waarin het verhaal van INK goed wordt overgebracht. Op de website moeten sponsors zich kunnen aanmelden.
 
 ## Resources
 
