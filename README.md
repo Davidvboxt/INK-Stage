@@ -6,7 +6,7 @@ Ontwerp en ontwikkel een website voor INK waarin het verhaal van INK goed wordt 
 
 ## Resources
 
-[Backlog](https://github.com/orgs/fdnd-agency/projects/22)
+[Backlog](https://github.com/orgs/fdnd-agency/projects/22/views/2)
 
 [Figma Design](https://www.figma.com/file/tb8gXmzX9G17gIXXVSXifw/INK-DIEGO%2FNANDITA%2FMILAN%2FRALPH?type=design&node-id=0%3A1&t=QpH4rPLnaaEkDbZE-1)  
 
