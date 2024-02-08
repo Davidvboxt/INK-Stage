@@ -35,6 +35,7 @@
 		background-repeat: no-repeat;
 		background-position: center center;
 		padding: 0 14vw;
+		color: black;
 	}
 
 	.sponsorCenterText {
