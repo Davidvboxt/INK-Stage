@@ -94,7 +94,7 @@
                             class="filled" />
                     </svg>
                     <div class="statsNumbers nr358">{valueNr358}</div>
-                    <p>Children saved</p>
+                    <p class="childrenSaved-p">Children saved</p>
                 </clipPath>
             </div>
 
@@ -217,8 +217,11 @@
     }
     }
 
+    .childrenSaved-p{
+        color: black;
+    }
+
     .childrenSaved {
-        color: white;
         position: relative;
         clip-path: url(#children-saved-clip);
         grid-area: children;
@@ -245,7 +248,7 @@
         position: absolute;
         bottom: 100%;
         right: -3%;
-        color: var(--justWhite);
+        color: black;
         content: "{valueNr358}";
         transition: content 5s;
     }
